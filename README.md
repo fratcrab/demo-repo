@@ -21,3 +21,8 @@ text goes here
 8 text goes here
 
 9 text goes here
+
+
+# Local Development
+
+1. Open index.html in your browser
